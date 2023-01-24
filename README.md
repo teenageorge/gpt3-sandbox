@@ -26,4 +26,4 @@ First, clone or fork [this](https://github.com/shreyashankar/gpt3-sandbox) repos
 8. Run `yarn install` in the root directory. Note: If you do not have yarn installed, you can install it by running `npm install --global yarn`. If this throws any errors, delete the `yarn.lock` file and try again. For macos users, you may run `brew install yarn` instead.
 
 ## Running the app
-`python3 gpt3-sandbox.py`
+`python3 gpt3-sql-demo.py`
