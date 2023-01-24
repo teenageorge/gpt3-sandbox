@@ -10,7 +10,7 @@ Coding-wise, you only need Python. But for the app to run, you will need:
 * API key from the OpenAI API beta invite
 * Python 3
 * `yarn`
-* Node 16
+* Node 16 or lts (I am running node `v18.12.1`)
 
 ## Setup
 
